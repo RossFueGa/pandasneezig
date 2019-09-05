@@ -1,0 +1,59 @@
+
+header{
+    display: block;
+    background: #6ba886a1;
+   
+}
+section{
+    width: 75%;
+    background: rgba(122, 122, 206, 0.363);
+    float: left;
+    overflow: auto;
+    padding-bottom: 60px;
+    padding-top: 30px;
+}
+
+.grimes{ 
+    height: 70px;
+    width: 100%;
+ 
+}
+
+.div_center{
+    padding-left: 5%;
+}
+aside{
+    
+    padding: 29px;
+    float: left;
+    border: 1px solid rgb(3, 48, 3);
+    width: 19%;
+    height: 750px;
+    border: 1px soli rgb(5, 27, 5);
+}
+footer{
+    position: relative;
+    margin-top: -50px;
+    height: 40px;
+    padding: 5px 0px;
+    clear: both;
+    background: #0a3d21a1;
+    text-align: center;
+    color: #fff;
+}
+figure{
+    display: table;
+    margin: 0 auto;
+}
+a{
+    text-decoration:none;
+}
+.h:hover{
+    color: brown;
+
+
+}
+#i{
+    border-radius: 100%;
+
+}
